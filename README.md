@@ -19,8 +19,8 @@ The approach is found to acheive a <b>jaccard similarity coefficienty of upto 0.
 
 #### Setup Instructions
 ```sh
-git clone https://github.com/vansh2308/Imseg-GMM_EM.git
-cd ./Imseg-GMM_EM
+git clone https://github.com/samay2504/Image-Segment
+cd ./Image-Segment
 
 chmod +x run.sh
 ./run.sh
